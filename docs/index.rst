@@ -9,9 +9,7 @@ Iruelas
     :hidden:
     :caption: Contenidos:
     
-    source/publicaciones.rst
-    
-    
+    source/publicaciones.rst  
 
 Índices y tablas
 ================
