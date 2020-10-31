@@ -7,9 +7,10 @@ Iruelas
     :titlesonly:
     :glob:
     :hidden:
-    :caption: Contenidos:
+    :caption: Contenido:
     
-    source/publicaciones.rst  
+    source/publicaciones.rst
+    source/referencias.rst
 
 Índices y tablas
 ================
