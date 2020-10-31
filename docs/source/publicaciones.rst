@@ -1,7 +1,3 @@
-.. contents::
-   :local:
-
-
 `Publicaciones <https://iruelas.wordpress.com/publicaciones/>`_
 ----------------------------------------------------------------
 
