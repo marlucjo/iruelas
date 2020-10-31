@@ -7,6 +7,15 @@ Iruelas
     :titlesonly:
     :glob:
     :hidden:
-    :caption: Contenido:
+    :caption: Contenidos:
     
-    source/publicaciones
+    source/publicaciones.rst
+    
+    
+
+Índices y tablas
+================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
