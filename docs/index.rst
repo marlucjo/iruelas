@@ -9,11 +9,4 @@ Iruelas
     :hidden:
     :caption: Contenido:
     
-    source/publicaciones.rst
-
-Índice y tablas
-===============
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    source/publicaciones
