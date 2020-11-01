@@ -1,5 +1,3 @@
-.. contents:: :depth: 2 
-
 `Publicaciones <https://iruelas.wordpress.com/publicaciones/>`_
 ----------------------------------------------------------------
 
