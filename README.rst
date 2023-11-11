@@ -1,6 +1,7 @@
 Iruelas
 ========
 
+https://iruelas.wordpress.com/
 
 Template for the Read the Docs tutorial
 ----------------------------------------
